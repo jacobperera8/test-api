@@ -3,7 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
+    "aws-sdk": "^2.1180.0",
+    "body-parser": "^1.20.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "dotenv": "^16.0.2",
     "express": "^4.17.1",
-    "serverless-http": "^2.7.0"
+    "json2xls": "^0.1.2",
+    "multer": "^1.4.5-lts.1",
+    "puppeteer-core": "^10.4.0",
+    "serverless-http": "^2.7.0",
+    "uuid": "^8.3.2"
   }
 }
